@@ -1,2 +1,1 @@
-# Budget.App
-# Budget.App
+# Sunrise.Budget
